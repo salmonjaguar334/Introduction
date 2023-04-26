@@ -1,0 +1,14 @@
+img.me {
+    border: 5px solid #4D4D50;
+    height: 320px;
+    width: 240px;
+}
+img.song {
+    height: 144px;
+    width: 144px;
+}
+figcaption {
+    color: #A5A5A5;
+    font-family: 'Trebuchet MS';
+    font-size: 14px;
+}
