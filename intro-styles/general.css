@@ -31,12 +31,7 @@ ul {
     border-color: #4D4D50;
     border-width: 5px;
 }
-li {
-    color: #2A64C5;
-    font-family: 'Trebuchet MS';
-    font-size: 16px;
-}
-a {
+li, a {
     color: #2A64C5;
     font-family: 'Trebuchet MS';
     font-size: 16px;
