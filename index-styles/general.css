@@ -1,8 +1,14 @@
 body {
-    background-color: #F5F5F7;
+    background-image: url(https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81rbGpxOKnpSttjQHNNbgUGgywLa7CpujG67cgPhrLsaqSuACWOsteGqT_u11McKZ_H5wJOpMNiDWL_l4_Qo_a1KgJwzag=w2880-h1338);
+    background-size: cover;
 }
 h1 {
-    color: #1D1D1F;
+    color: #F5F5F7;
     font-family: 'Trebuchet MS';
     font-size: 30px;
+}
+h2 {
+    color: #F5F5F7;
+    font-family: 'Trebuchet MS';
+    font-size: 24px;
 }
