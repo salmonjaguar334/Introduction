@@ -3,7 +3,7 @@ input[type=username], input[type=password] {
     padding: 12px 20px;
     margin: 8px 0;
     display: inline-block;
-    border: 1px solid #ccc;
+    border: 1px solid #F5F5F7;
     box-sizing: border-box;
     font-family: 'Trebuchet MS';
 }
@@ -18,10 +18,11 @@ button {
     font-family: 'Trebuchet MS';
 }
 label {
+    color: #F5F5F7;
     font-family: 'Trebuchet MS';
 }
 a {
-    color: #2A64C5;
+    color: #F5F5F7;
     font-family: 'Trebuchet MS';
     font-size: 14px;
 }
